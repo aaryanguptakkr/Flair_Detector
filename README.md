@@ -39,7 +39,7 @@ We had to reduce words to their root words to process meaningful information onl
 
 **Technique Chosen - Lemmatization** ( Lemmatization replaces root words with synonyms in addition to stemming reducing my data dimensionality further. Moreover, the words returned from lemmatization were meaningful, and allowed me to further use Stanford&#39;s glove embeddings in modelling (Explained in modelling section)
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### Too Many Class Labels
 
