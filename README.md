@@ -1,10 +1,24 @@
-There are three major parts to this software :-
+
+#### The repo goes like this :
+
+Reddit_Scraper_Trainer consists of every of the above parts i.e Data Collection , EDA , Preprocessing , Model Training & Evaluation.
+
+rscraper loads all the trained models.
+
+preprocessing holds the functions defined  for preprocessing
+
+predictor takes input and returns the output.
+
+
+#### There are three major parts to this software :-
 
 Data Collection
 
 Pre-Processing &amp; EDA
 
 Model building &amp; training
+
+
 
 ## Data Collection
 
