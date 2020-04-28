@@ -1,7 +1,7 @@
 
 #### The repo goes like this :
 
-Reddit_Scraper_Trainer consists of every of the above parts i.e Data Collection , EDA , Preprocessing , Model Training & Evaluation.
+Reddit_Scraper_Trainer consists of every part i.e Data Collection , EDA , Preprocessing , Model Training & Evaluation.
 
 rscraper loads all the trained models.
 
