@@ -59,7 +59,7 @@ I faced a similar problem here :-
 
 Around 60% of the data consisted of only 4 classes i.e. Coronavirus , Politics , Non-Political , CAA-NRC.
 
-Solution :-
+#### Solution :-
 
 I undersampled the prominent classes &amp; oversampled the less prominent ones. I randomly selected 2000 data values from each class &amp; concatenated them to form the dataset.
 
@@ -81,11 +81,11 @@ Random Forest Classifier : - I considered it for explainability of features. RFC
 
 I used Scikit Learn library for the above.
 
-Problem faced :-
+#### Problem faced :-
 
 The accuracies of the model was comparable to each other( varied from 65% - 70% accuracy) and the fact that each model worked better on certain classes which could not be ignored on the basis of their accuracies on the whole corpus . There was high possibility that SVM , NB would work better on certain classes compared to RFC.
 
-Solution :-
+#### Solution :-
 
 I built a hybrid model which compares the probability of each model&#39;s final result &amp; compares them to decide the final output.
 
