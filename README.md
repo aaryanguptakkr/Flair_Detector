@@ -63,7 +63,7 @@ Solution :-
 
 I undersampled the prominent classes &amp; oversampled the less prominent ones. I randomly selected 2000 data values from each class &amp; concatenated them to form the dataset.
 
-##Model Training
+## Model Training
 
 I considered following two approaches :-
 
@@ -109,26 +109,26 @@ For calculating loss, Cross Entropy Loss was selected .
 
 This loss function tries to minimize the distance between the predicted and actual probability distributions. Therefore results in better classification of data..
 
-####Problem :-
+#### Problem :-
 
 The Embedding needs a lots of data to be trained which was not possible here.
 
 As the APIs available had their limitations .
 
-####Solution:-
+#### Solution:-
 
 I used GLOVE pre trained embeddings which is trained by Stanford NLP on millions of data values &amp; the results were saved as GLOVE files.
 
-####Problem:-
+#### Problem:-
 
 The accuracy of this model was not upto the mark
 
-####Solutions Tried :-
+#### Solutions Tried :-
 
 Tweaking Model i.e varying the parameters , hidden layer&#39;s size , Optimizers , Loss Functions, Learning Rates etc and calculating the accuracy &amp; considering the best score.
 
 The results were not upto the mark.
 
-####Possible Reason can be :-
+#### Possible Reason can be :-
 
 Shortage of data as these models requires a lot of computation.
