@@ -49,6 +49,8 @@ I faced a similar problem here :-
 
 The dataset had 66 classes initially which reduced the efficiency of my model.
 
+#### Solution :-
+
 I took only 10 most frequent classes &amp; dropped the rest &amp; then concatenated those classes.
 
 ### Biased Data
