@@ -10,7 +10,7 @@ preprocessing holds the functions defined  for preprocessing
 predictor takes input and returns the output.
 
 
-#### There are three major parts to this software :-
+#### There are three major parts to this project :-
 
 Data Collection
 
