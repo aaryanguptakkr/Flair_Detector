@@ -9,6 +9,10 @@ preprocessing holds the functions defined  for preprocessing
 
 predictor takes input and returns the output.
 
+App couldn't be loaded to this repo 
+You can check it here :-
+https://github.com/aaryanguptakkr/App_Flair_Predictor
+
 
 #### There are three major parts to this project :-
 
